@@ -12,7 +12,7 @@ These functions won't `return` anything, just make changes to the current DOM.
 2. Now call it! The first list item (`<li>`) should get what's known as a "strikethrough" style.
 3. Write a function that takes in a string representing an DOM element's `id` and a string representing a url. The function should set the image with that `id` to have that url as its image source.
 4. Now use that function to set the three images in the Image Area section to show three images of your choice. You'll need three separate calls to your function!
-5. This next function also doesn't require any parameters: write a function that always removes the last `<li>` from the Arguments `<ul>`  (try looking up "last child" and the `.remove` method). This is a bit tricky, but doable!
+5. This next function also doesn't require any parameters: write a function that always removes the last `<li>` from the Arguments `<ul>` (try looking up "last child" and the `.remove` method). This is a bit tricky, but doable!
 6. Now use it to remove the last two items from that list. You'll need to call it twice!
 7. Write a function that takes in two strings, one representing a font size and one representing an id, and sets the thing with that id to have that size for its text.
 8. Try using it to change the size of any text on the page.
