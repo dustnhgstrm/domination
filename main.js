@@ -110,12 +110,3 @@ function takerOfStrings(headerSize, someTexts) {
 const tryingToFunctionSomeMore = takerOfStrings("6", "someTextsOfThings");
 
 ulAppend(tryingToFunctionSomeMore);
-
-// const parentOfList = document.querySelector("#arguments");
-// const childrenInList = document.querySelectorAll("ul li");
-// let listLength = childrenInList.length - 1;
-// function removeLastItemFromList() {
-//   let lastChildInList = childrenInList[listLength];
-//   parentOfList.removeChild(lastChildInList);
-//   listLength--;
-// }
